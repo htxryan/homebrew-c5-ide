@@ -1,14 +1,14 @@
 cask "c5-ide" do
-  version "0.2.0"
+  version "0.3.0"
 
   on_arm do
-    sha256 "a1dd644e949a09fc8eeb19cb526f98e9b2800e56f661f710872172adbf5bea7b"
-    url "https://github.com/htxryan/c5/releases/download/v0.2.0/c5-ide-0.2.0-mac-arm64.dmg"
+    sha256 "d680ef088927ed7eda1d990520f1567667ff805389d2ab43898092a4a04fed47"
+    url "https://github.com/htxryan/c5/releases/download/v0.3.0/c5-ide-0.3.0-mac-arm64.dmg"
   end
 
   on_intel do
-    sha256 "81eb28e5ae553059d7266a75525df04830799e403b1fb2597fcc0480d07f9d8f"
-    url "https://github.com/htxryan/c5/releases/download/v0.2.0/c5-ide-0.2.0-mac-x64.dmg"
+    sha256 "9c312faab585b93eca85bc59ba3b8be492d24bdd19e76eadfb4703c50fdc2b00"
+    url "https://github.com/htxryan/c5/releases/download/v0.3.0/c5-ide-0.3.0-mac-x64.dmg"
   end
 
   name "c5-ide"

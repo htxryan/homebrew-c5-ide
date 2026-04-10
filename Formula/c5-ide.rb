@@ -1,12 +1,12 @@
 class C5Ide < Formula
   desc "Electron GUI for Claude Code CLI"
   homepage "https://github.com/htxryan/c5"
-  version "0.3.0"
+  version "0.4.0"
   license "MIT"
 
   on_linux do
-    url "https://github.com/htxryan/c5/releases/download/v0.3.0/c5-ide-0.3.0-linux-x86_64.AppImage"
-    sha256 "07ed68df275d6b9c74a61cbddd061b3953b8f9ae6dbe5ad8046537dcd0d13a69"
+    url "https://github.com/htxryan/c5/releases/download/v0.4.0/c5-ide-0.4.0-linux-x86_64.AppImage"
+    sha256 "5595a7b17dd442fe476e29befaea74b506679bbd5189aec26ed61a40299b7b8b"
   end
 
   def install
